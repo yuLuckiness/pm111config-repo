@@ -2,7 +2,6 @@ env: product-dev
 spring:
   application:
     name: product
-
   datasource:
     username: root
     password: root
