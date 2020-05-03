@@ -1,5 +1,4 @@
 env: product-dev
-
 spring:
   application:
     name: product
